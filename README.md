@@ -5,6 +5,6 @@ This project implements an end-to-end data engineering pipeline on AWS to proces
 
 Amazon S3 – Data storage for raw and processed datasets  
 AWS Lambda – Event-driven transformation of JSON files to Parquet format  
-AWS Glue – ETL processing for CSV datasets, schema mapping and Data Catalog management  
+AWS Glue – ETL processing for CSV datasets, schema mapping, dataset joins and Data Catalog management
 Amazon Athena – Serverless SQL querying on data stored in S3  
 Power BI – Dashboard and data visualization connected to Athena
